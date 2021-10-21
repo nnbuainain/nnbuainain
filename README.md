@@ -8,7 +8,7 @@ I've been using programing languages to do research and data analyses in biologi
 
 ## Under Construction
 # :building_construction: :construction_worker_man: 
-I'm currently revisiting all my scripts and codes, organizing and posting them as advance. I apollogize and ask you to be patient as this might take a little while. But it is never too late to get serious about sharing knowledge. The intention is to upload here all the data and code I have used along my research carreer and the stuff I'm learning now.
+I'm currently revisiting all my scripts and codes, organizing and uploading them as I advance. I apologize and ask you to be patient as this might take a little while. But it is never too late to get serious about sharing knowledge. The intention is to upload here all the data and code I have used along my research carreer but also the stuff I'm learning now.
 
 You are welcome to contact me anytime if you have any questions or just want to chat about science and data analyses.
 
