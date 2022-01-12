@@ -4,9 +4,7 @@
 
 I'm a curious Data Scientist :bar_chart: and Post Doctoral Researcher in Evolutionary Biology (mostly birds :bird: ) at INPA, Manaus, in the Brazilian Amazon :seedling:. I have a natural hunger for learning new stuff and I love to explore data, find patterns, ask and answer intriguing questions.
 
-I've been using programing languages to do research and data analyses for a while, and recently decided to get more serious about making my codes and studies acessible to everyone including me. I'm here to share and acquire knowledge on data analyses and programming.
-
-- 🔭 I’m currently working on constructing a database for INPA's Genetic Resources Colelction in Postgrees and Python and performing data analyses with it to provide the institution data-based inteligence for decision making.
+- 🔭 I’m currently working on constructing a database for INPA's Genetic Resources Collection in Postgrees and Python and performing data analyses with it to provide the institution data-based inteligence for decision making.
 
 - 🌱 I’m currently learning more about deep learning algorithms and SQL.
 
