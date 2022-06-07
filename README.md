@@ -2,15 +2,11 @@
 ---
 ## Welcome to my github page ;)
 
-I'm a curious Data Scientist :bar_chart: and Post Doctoral Researcher in Evolutionary Biology (mostly birds :bird: ) at INPA, Manaus, in the Brazilian Amazon :seedling:. I have a natural hunger for learning new stuff and I love to explore data, find patterns, ask and answer intriguing questions.
+I'm a curious Data Scientist :bar_chart: and Researcher in Evolutionary Biology and Biogeography (mostly birds :bird: ) based in Manaus, in the Brazilian Amazon :seedling:. I have a natural hunger for learning new stuff and I love to explore and model data, find patterns, ask and answer intriguing questions.
 
-- 🔭 I’m currently working on constructing a database for INPA's Genetic Resources Collection in Postgrees and Python and performing data analyses with it to provide the institution data-based inteligence for decision making.
+- I currently work at Elogroup, a business consultancy company that helps people to find data-based solutions for real-world problems. My current project deals with State tax fraud detection.
 
-- 🌱 I’m currently learning more about deep learning algorithms and SQL.
-
-## Under Construction
-# :building_construction: :construction_worker_man: 
-I'm currently revisiting all my scripts and codes, organizing and uploading them as I advance. I apologize and ask you to be patient as this might take a little while. But it is never too late to get serious about sharing knowledge. The intention is to upload here all the data and code I have used along my research carreer but also the stuff I'm learning now.
+- 🌱 I’m currently learning more about deep learning algorithms, PySpark and graph-based network analyses.
 
 You are welcome to contact me anytime if you have any questions or just want to chat about science and data analyses.
 
