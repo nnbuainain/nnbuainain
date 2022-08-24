@@ -4,9 +4,7 @@
 
 I'm a curious Data Scientist :bar_chart: and Researcher in Evolutionary Biology and Biogeography (mostly birds :bird: ) based in Manaus, in the Brazilian Amazon :seedling:. I have a natural hunger for learning new stuff and I love to explore and model data, find patterns, ask and answer intriguing questions.
 
-- I currently work at Elogroup, a business consultancy company that helps people to find data-based solutions for real-world problems. My current project deals with State tax fraud detection.
-
-- 🌱 I’m currently learning more about deep learning algorithms, PySpark and graph-based network analyses.
+- 🌱 I’m currently learning more about software development and deep learning with a focus on computer vision.
 
 You are welcome to contact me anytime if you have any questions or just want to chat about science and data analyses.
 
