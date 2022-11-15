@@ -2,9 +2,11 @@
 ---
 ## Welcome to my github page ;)
 
-I'm a curious Data Scientist :bar_chart: and Researcher in Evolutionary Biology and Biogeography (mostly birds :bird: ) based in Manaus, in the Brazilian Amazon :seedling:. I have a natural hunger for learning new stuff and I love to explore and model data, find patterns, ask and answer intriguing questions.
+I'm a curious Data Scientist :bar_chart: and Researcher in Evolutionary Biology, Ecolgogy and Biogeography (mostly birds :bird: ) based in Manaus, in the Brazilian Amazon :seedling:. I have a natural hunger for learning new stuff and I love to explore and model data, find patterns, ask and answer intriguing questions.
 
-- 🌱 I’m currently learning more about software development and deep learning with a focus on computer vision.
+- 🌱 I’m currently learning more about software development and deep learning with a focus on computer vision and audio/image classification.
+
+- 🌱 I currently work as Data Scientist at RainForest Connection (RFCx) where we use autonomous recorders coupled with artificial intelligence to detect illegal activity and monitor biodiversity in wild environments. 
 
 You are welcome to contact me anytime if you have any questions or just want to chat about science and data analyses.
 
