@@ -1,14 +1,22 @@
 # Howdy folks! :cowboy_hat_face:
 ---
-## Welcome to my github page ;)
+## Welcome to my GitHub page ;)
 
-I'm a curious Data Scientist :bar_chart: and Researcher in Evolutionary Biology, Ecolgogy and Biogeography (mostly birds :bird: ) based in Manaus, in the Brazilian Amazon :seedling:. I have a natural hunger for learning new stuff and I love to explore and model data, find patterns, ask and answer intriguing questions.
+## About Me
+I’m a Data Science Lead specializing in AI solutions for biodiversity conservation, with a strong background in biodiversity research, audio machine learning, and passive acoustic monitoring, I focus on developing innovative tools to protect species and ecosystems. I’m passionate about combining technology, biological science, and problem-solving to drive impactful changes in conservation.
 
-- 🌱 I’m currently learning more about software development and deep learning with a focus on computer vision and audio/image classification.
+## Main Interests
+Data Science, Machine Learning, and Deep Learning
+Biodiversity Monitoring
+Audio Classification & Passive Acoustic Monitoring
+AI for Conservation
 
-- 🌱 I currently work as Data Scientist at RainForest Connection (RFCx) where we use autonomous recorders coupled with artificial intelligence to detect illegal activity and monitor biodiversity in wild environments. 
+## Current Role
+Data Science Lead at [WildMon](https://wildmon.ai/)
 
-You are welcome to contact me anytime if you have any questions or just want to chat about science and data analyses.
+Leading AI-driven projects for comprehensive biodiversity assessment.
+Promoting a culture of experimentation and professional growth in the team.
+
 
 ## Find me here
 
@@ -23,11 +31,13 @@ You are welcome to contact me anytime if you have any questions or just want to 
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
-![PostGre](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
-![SciKitLearn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+![SciKitLearn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
